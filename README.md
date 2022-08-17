@@ -1,1 +1,1 @@
-# Auxiliary_Item_Information_GRM
+This repository contains code based on "Using Auxiliary Item Information in the Item Parameter Estimation of a Graded Response Model for a Small to Medium Sample Size: Empirical versus Hierarchical Bayes Estimation" (Naveiras & Cho, under review) for obtaining estimates from item response data under a graded response model (GRM).
